@@ -14,6 +14,10 @@ to see the changes occuring in layouts and to see if the design is complying wit
 
 If you have custom constraints for pnr and signoff place them in respective pnr sdc file and signoff sdc files
 
+When using any other technology nodes such as NCSU's FreePDK 45 or any other be sure to mention the file path wherever required.
+
+We can notice changes due to scaling when using different PDK's
+
 If facing any trouble regarding the syntaxes to run the design refer to OpenLane Documentation center "https://openlane.readthedocs.io/en/latest/reference/configuration.html"
 
 Hope this project helps even if it's little.
