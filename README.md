@@ -6,7 +6,7 @@ Place the files in the designs folder given in the OpenLane Top-level folder
 
 Or place them in any folder but do not forget to mention the path in the configuration tcl file and in constraints file
 
-This design is only for learning, exploring the physical design domain of Chip designs and experimentation
+This design is only for learning, experimentation and exploring the physical design domain of Chip designs
 
 change the constraints and configuration file declarations for pdn etc.., according to the learners wishes 
 
